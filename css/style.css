@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    width: 700px;
+    height: 700px;
+}
+.card-img-top{
+    width: 700px !important;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-body{
+    width: 50%;
+}
+h5{
+    display: flex;
+    justify-content: center;
+}
+footer p{
+    margin-left: 50px;
+}
