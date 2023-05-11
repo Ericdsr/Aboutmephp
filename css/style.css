@@ -8,6 +8,7 @@ header{
     justify-content: center;
 }
 img{
+    margin-top: 50px;
     width: 700px;
     height: 700px;
 }
