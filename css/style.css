@@ -27,5 +27,7 @@ h5{
     justify-content: center;
 }
 footer p{
-    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
